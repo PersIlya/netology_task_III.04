@@ -40,7 +40,7 @@
 
 ---
 
->по пункту 6
+>по пунктам 6-9
 ```yaml
 <https://github.com/PersIlya/lighthouse-role>
 <https://github.com/PersIlya/vector-role>
